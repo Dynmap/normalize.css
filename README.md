@@ -1,6 +1,6 @@
 # normalize.css
 
-<a href="https://www.github.com/dynmap/normalize.css"><img
+<a href="https://www.github.com/headbot/normalize.css"><img
   width="80" height="80" align="right"></a>
 
 > A modern alternative to CSS resets
